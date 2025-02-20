@@ -1,1 +1,1 @@
-# sw_settings
+# sw_settings version 1.0
